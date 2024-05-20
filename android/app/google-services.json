@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "306077247606",
+    "project_id": "indehlizi",
+    "storage_bucket": "indehlizi.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:306077247606:android:98824c0e5cdfdf26d49757",
+        "android_client_info": {
+          "package_name": "com.aaoco.indehlizi"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "306077247606-16a8m3r23io2gbfhbef74ihgp4jfnk9o.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBD4zB2kWJ5ag8Vqqjrnish7XUTE0uMTX4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "306077247606-16a8m3r23io2gbfhbef74ihgp4jfnk9o.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "306077247606-02qn66tpqkr0muti2bgirvjud68qurb5.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.aaoco.indehlizi"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
